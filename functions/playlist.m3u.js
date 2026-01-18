@@ -20,7 +20,7 @@ export async function onRequest({ request }) {
   }
 
   const SOURCE =
-    "https://raw.githubusercontent.com/bddeveloperyt/rriptv/refs/heads/main/bdixlive.m3u8";
+    "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my";
 
   const res = await fetch(SOURCE, {
     headers: {
