@@ -1,28 +1,85 @@
 #EXTM3U
 
-#EXTINF:-1,BTV
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/BTV.png",BTV
 http://103.114.11.37:8081/BTV/index.m3u8?token=1dsfds1fsdf
 
-
-#EXTINF:-1,Somoy TV
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/somoy2.png",Somoy TV
 http://103.114.11.37:8081/SOMOY-TV/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,T Sports HD
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/somoy.png",Somoy TV-BDIX
+http://103.114.11.37:8081/SOMOY-TV-BDIX/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/tsports2.png",T Sports HD
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,T Sports BDIX
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/tsports.png",T Sports BDIX
 http://103.114.11.37:8081/T-Sports-BDIX/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,A-Sports BDIX
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/asports.png",A-Sports BDIX
 http://103.114.11.37:8081/A-sports-BDIX/index.m3u8?token=1dsfds1fsdf
-#EXTINF:-1,BEIN SPORTS 1
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/BEIN-SPORTS-1.png",BEIN SPORTS 1
 http://103.114.11.37:8081/BEIN-SPORTS/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,PTV
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/ptv1080p.png",PTV
 http://103.114.11.37:8081/PTV/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,FIFA 4K
-http://103.114.11.37:8081/FIFA-4k/index.m3u8?token=1dsfds1fsdf
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/PTV.png",PTV-BDIX
+http://103.114.11.37:8081/PTV-BDIX/index.m3u8?token=1dsfds1fsdf
 
-#EXTINF:-1,FIFA 4K 2
-http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=1dsfds1fsdf
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/sonysports1.png",Sony Sports 1
+http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/sonysports2.png",Sony Sports 2
+http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/sonysports3.png",Sony Sports 3
+http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/starselect1.png",Star Select 1
+http://103.114.11.37:8081/Star-select-1/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/starselect2.png",Star Select 2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/starsports1.png",Star Sports 1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/starsports2.png",Star Sports 2
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/united1.png",Unite8 Sports 1 1080p
+http://103.114.11.37:8081/Unite8-sports-2/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/cazetv.png",Caze Tv 1080p
+http://103.114.11.37:8081/CazeTv1080p/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/cazetv720.jpg",Caze Tv 720p
+http://103.114.11.37:8081/caze-tv-720p/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/colorsbangla.png",Colors Bangla
+http://103.114.11.37:8081/Colours-bangla/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/Discovery.png",Discovery
+http://103.114.11.37:8081/Discovery/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/jalshamovies.png",Jalsha Movies
+http://103.114.11.37:8081/Jalsha-Movies/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/Sony%20Aath.png",Sony Aath
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/Sony%20Pix%20HD.png",Sony Pix
+http://103.114.11.37:8081/Sony-pix/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/Star%20Jalsha.png",Star Jalsha
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/starmovies.jpg",Star Movies
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/Zee%20Bangla.png",ZEE Bangla
+http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=1dsfds1fsdf
+
+#EXTINF:-1 tvg-logo="http://103.114.11.37:8088/assets/images/Zee%20Cinema%20HD%20.png",Zee Cinema
+http://103.114.11.37:8081/Z-Cinema/index.m3u8?token=1dsfds1fsdf
