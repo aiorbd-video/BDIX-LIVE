@@ -1,97 +1,97 @@
 #EXTM3U
 
-#EXTINF:-1, Shemaroo Bollywood
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QtvZPQNc/2f66f13b85531977f2990c18ca414e83.png", Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1, ME TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMvfjm9X/images-(18).jpg", ME TV
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1, Bein Sports Xtra HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QNfqZ4xV/bein-sports-xtra-logo-jpg-(1).jpg", Bein Sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1, Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKfV48SF/animal-planet-logo-brandlogos-net-psvki-300x300.png", Animal Planet HD
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1, Channel One 4K
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5hWTrBm/Channel-1-BD-2006-Ident.webp", Channel One 4K
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1, Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdhG38Lz/images-(15).jpg", Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1, G Series Drama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zWRDbmM/images-(1)-(3).jpg", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1, Channel I HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBy4shwm/images-(13).png", Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1, Movie Bangla HD
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681", Movie Bangla HD
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1, Scream TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1yY521J/images-(27).jpg", Scream TV HD
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
-#EXTINF:-1, Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTC95HZ6/Z-Bangla-logo.jpg", Zee Bangla HD
 http://103.159.180.34:5001/live/625.m3u8
 
-#EXTINF:-1, Nick Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKh4NNLK/Nick-logo-2009.png", Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
 
-#EXTINF:-1, Hollywood Action Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25X7tHpc/value-(1).png", Hollywood Action Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1, Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1NvvVZv/images-(1)-(7).jpg", Star Plus HD
 http://103.159.180.34:5001/live/562.m3u8
 
-#EXTINF:-1, My TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MxX8RsH/images-(12).png", My TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Star News HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zRQp9JQ/images-(14).jpg", Star News HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
-#EXTINF:-1, Dipto TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDG7d51k/deepto-tv-logo-png-seeklogo-513994.png", Dipto TV HD
 https://cdn-2.pishow.tv/live/227/master.m3u8
 
-#EXTINF:-1, Enterten Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63JZ1vZj/images-(13).jpg", Enterten Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1, Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMZ4v60C/Star-Jalsha-HD-2019-Chalo-Paltai.webp", Star Jalsha HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63525
 
-#EXTINF:-1, 8XM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgSyypym/images-(13).png", 8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
-#EXTINF:-1, Bangla TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcMd3kx7/images-(16).jpg", Bangla TV HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1, Masranga TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7DdMJBk/images-(20).jpg", Masranga TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1, Zee Action
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgbVsCPq/zee-action-advertising-services.png", Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1, DD Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzTKJRhC/images-(1)-(9).jpg", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1, Quran (CriticX Islamic)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yzL4VGv/images-(1)-(1).jpg", Quran (CriticX Islamic)
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 
-#EXTINF:-1, Channel 9 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hg2YbBB/channel-9-logo-png-seeklogo-532421.png", Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1, Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6GQ6f0p/images-(12).jpg", Colors Bangla HD
 https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 
-#EXTINF:-1, Willow Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5P37GWp/images-(1)-(27).jpg", Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
 
-#EXTINF:-1, Fifa+
+#EXTINF:-1 tvg-logo="https://postimg.cc/F1GMVjXG", Fifa+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1, Euro Sports HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kggtm46Q/images-(5).png", Euro Sports HD
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 
-#EXTINF:-1, Somoy News HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryj0tzp1/images-(8).png", Somoy News HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
-#EXTINF:-1, জলসা Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wLjr6wT/images-(1)-(2).jpg", জলসা Movies HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63524
