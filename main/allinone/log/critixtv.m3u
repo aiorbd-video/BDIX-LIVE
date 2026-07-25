@@ -72,7 +72,7 @@ http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzTKJRhC/images-(1)-(9).jpg", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yzL4VGv/images-(1)-(1).jpg", Quran (CriticX Islamic)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yzL4VGv/images-(1)-(1).jpg", Quran (all in one Islamic)
 https://vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hg2YbBB/channel-9-logo-png-seeklogo-532421.png", Channel 9 HD
